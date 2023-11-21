@@ -37,6 +37,6 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" + "name='" + name + '\'' +  ", speed=" + speed + ", age=" + age + '}';
+        return "Animal{" + " Назва тварини= '" + name + "', Швидкість тварини=" + speed +  " км/год, Вік тварини = " + age + " років }";
     }
 }
